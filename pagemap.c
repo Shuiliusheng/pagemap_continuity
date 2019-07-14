@@ -40,7 +40,6 @@ static void process(uint64_t address, uint64_t data)
 	{
 		continuity++;
 		behavior[2]++;
-		printf("paddr=(last_paddr+1): %d %d\n", continuity, behavior[2]);
 		last_paddr=paddr;
 		return ;
 	}
@@ -48,10 +47,6 @@ static void process(uint64_t address, uint64_t data)
 	{
 		continuity=continuity%(MAX);
 		record[continuity]++;
-		if(continuity!=0)
-		{
-			printf("continuity: %d\n", continuity);
-		}	
 		last_paddr=paddr;
 		continuity=0;
 		//printf("+1\r");

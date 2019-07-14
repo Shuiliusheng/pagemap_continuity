@@ -1,0 +1,9 @@
+behavior 0 (present=-1):80        
+behavior 1 (    padd=0):0         
+behavior 2 (continue  ):44451     
+behavior 3 (not contin):50530     
+continuity:          1 4KB:26213     
+continuity:          2 4KB:14219     
+continuity:          3 4KB:70        
+continuity:          4 4KB:10026     
+continuity:          8 4KB:2         

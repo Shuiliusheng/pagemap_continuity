@@ -1,0 +1,130 @@
+astar
+pagesize : number (times=9)
+1*4KB:132656
+2*4KB:100
+
+bwaves
+pagesize : number (times=12)
+1*4KB:2652657
+2*4KB:17
+
+bzip2
+pagesize : number (times=5)
+1*4KB:1082699
+2*4KB:55
+3*4KB:3
+4*4KB:55
+
+cactusADM
+pagesize : number (times=17)
+1*4KB:2717640
+2*4KB:1
+
+calculix
+pagesize : number (times=23)
+1*4KB:255882
+2*4KB:1666
+3*4KB:87
+4*4KB:123
+
+dealII
+pagesize : number (times=11)
+1*4KB:587135
+2*4KB:55
+
+gcc
+pagesize : number (times=1)
+1*4KB:31184
+2*4KB:76
+3*4KB:3
+4*4KB:12
+
+GemsFDTD
+pagesize : number (times=13)
+1*4KB:2756888
+
+gromacs
+pagesize : number (times=12)
+1*4KB:45412
+2*4KB:18
+3*4KB:6
+
+h264ref
+pagesize : number (times=2)
+1*4KB:14220
+2*4KB:4
+
+hmmer
+pagesize : number (times=4)
+1*4KB:25533
+2*4KB:14
+
+lbm
+pagesize : number (times=2)
+1*4KB:209712
+2*4KB:10
+3*4KB:2
+4*4KB:4
+
+libquantum
+pagesize : number (times=14)
+1*4KB:232448
+2*4KB:130
+
+mcf
+pagesize : number (times=10)
+1*4KB:4292640
+
+namd
+pagesize : number (times=14)
+1*4KB:164514
+2*4KB:206
+3*4KB:12
+
+omnetpp
+pagesize : number (times=16)
+1*4KB:651114
+2*4KB:16919
+3*4KB:555
+
+perlbench
+pagesize : number (times=7)
+1*4KB:336729
+2*4KB:2176
+3*4KB:3
+4*4KB:91
+
+povray
+pagesize : number (times=5)
+1*4KB:6871
+2*4KB:18
+
+sjeng
+pagesize : number (times=18)
+1*4KB:808483
+2*4KB:124
+
+soplex
+pagesize : number (times=6)
+1*4KB:179389
+2*4KB:1217
+6*4KB:12
+7*4KB:6
+8*4KB:102
+
+tonto
+pagesize : number (times=17)
+1*4KB:147787
+2*4KB:131
+
+wrf
+pagesize : number (times=12)
+1*4KB:2093226
+2*4KB:340
+3*4KB:12
+
+zeusmp
+pagesize : number (times=13)
+1*4KB:1670984
+2*4KB:486
+
